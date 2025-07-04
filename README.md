@@ -77,7 +77,7 @@ curl "https://your-vercel-app.vercel.app/api/send?text=📢+New+Product+Added"
 
 ## ✍️ Author
 
-Built by [Mohammad Ebrahimzadeh](https://github.com/sunglassesstoreintehran) for [RcooShop](https://rcoo.shop)
+Built by [Mohammad Ebrahimzadeh](https://github.com/wohawwadhosein) for [RcooShop](https://rcooshop.com)
 
 ---
 
